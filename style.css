@@ -1,0 +1,53 @@
+
+body {
+  font-family: Roboto;
+
+}
+
+.banner {
+
+  background-image: url("https://images.unsplash.com/photo-1592613236214-30143757a357");
+  opacity: 75%;
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+padding-top: 100px;
+color: white;
+padding-left: 25%;
+font-style: serif;
+font-size: 46px;
+}
+
+h2 {
+  font-style: italic;
+  color: white;
+  size: 42px;
+  text-align: left;
+  line-height: 0px;
+  padding-left: 25%;
+  font-family: 'Lora';
+  font-style: serif;
+}
+
+h3 {
+  color: grey;
+  font-size: 30px;
+}
+
+.text {
+  padding: 40px;
+}
+a {
+  font-size: 30px;
+  font-family: 'Lora';
+  font-style: serif;
+  background-color: azure;
+  text-decoration: none;
+  color: grey;
+}
+a:hover {
+ background-color: aquamarine;
+}
